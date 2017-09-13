@@ -1,0 +1,59 @@
+# Number of People*
+8
+# Names of People* (ladies first)
+Kendall
+Kristen
+Sarah
+Shawna
+Trond
+Tyler
+Logan
+Eric
+# Preferences, staring with first, skipping lines
+Logan
+Trond
+Tyler
+Eric
+
+Logan
+Trond
+Eric
+Tyler
+
+Logan
+Tyler
+Trond
+Eric
+
+Eric
+Tyler
+Trond
+Logan
+
+Kendall
+Sarah
+Shawna
+Kristen
+
+Sarah
+Kendall
+Kristen
+Shawna
+
+Sarah
+Kendall
+Shawna
+Kristen
+
+Kendall
+Sarah
+Kristen
+Shawna
+
+
+@auto-generated text
+***MARRIAGE PROPOSAL***
+Trond should marry Kendall
+Tyler should marry Shawna
+Logan should marry Sarah
+Eric should marry Kristen

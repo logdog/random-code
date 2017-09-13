@@ -1,0 +1,17 @@
+6
+
+Boys:
+    Trump: Sarah, Patty, Clinton, Suzan, Tubman, Liberty
+    Obama: Tubman, Liberty, Suzan, Patty, Clinton, Sarah
+    Biden: Sarah, Liberty, Clinton, Patty, Suzan, Tubman
+    Cruz: Sarah, Clinton, Patty, Liberty, Suzan, Tubman
+    Washington: Liberty, Sarah, Patty, Clinton, Suzan, Tubman
+    Lincoln: Tubman, Clinton, Liberty, Patty, Suzan, Sarah
+
+Girls:
+    Suzan: Cruz, Obama, Lincoln, Washington, Biden, Trump
+    Tubman: Lincoln, Obama, Cruz, Washington, Biden, Trump
+    Clinton: Obama, Biden, Washington, Lincoln, Cruz, Trump
+    Sarah: Cruz, Trump, Washingotn, Lincoln, Obama, Biden
+    Patty: Biden, Washington, Lincoln, Obama, Cruz, Trump
+    Liberty: Washington, Lincoln, Obama, Cruz, Biden, Trump
